@@ -56,7 +56,7 @@ I'm **[`Anshif murshid ck`]**, I am a B.Tech CSE AI/DS student passionate about 
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[etiquette](https://github.com/anshifmurshidck/etiquette/blob/main/README.md)**    |  ExpenseMate is a Flutter-based expense tracker with UPI SMS detection, spending management, and smart analytics.|
 
 
 ---
